@@ -40,7 +40,7 @@ h3 {
             <a href="mailto:gboyd404@bju.edu">here</a>.
          </p> 
          <p>
-            I enjoy listening to piano and having deep conversations.
+            I enjoy listening to piano music. 
          </p>
         <h3>EDUCATION</h3>
         Bussines<br />
